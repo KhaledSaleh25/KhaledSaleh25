@@ -10,6 +10,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://static.vecteezy.com/system/resources/previews/013/104/767/original/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner-vector.jpg"  />
+</div>
+
+###
+
 <h2 align="left">Programming Languages</h2>
 
 ###
